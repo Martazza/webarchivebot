@@ -3,7 +3,8 @@
 This bot lets you save automatically the webpages using the utterly fantastic wayback machine for future generations.
 
 It even follow every link on each page and save them too!
-It supports: Blacklist TOR proxies.
+
+It supports: Blacklist, TOR proxies.
 
 
 
