@@ -1,14 +1,3 @@
-# WEB Archive Bot
-
-This bot lets you save automatically the webpages using the utterly fantastic wayback machine for future generations.
-
-It even follow every link on each page and save them too!
-It supports: Blacklist TOR proxies.
-
-
-
-# License
-```
 MIT License
 
 Copyright (c) 2019 Martazza
@@ -30,4 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
