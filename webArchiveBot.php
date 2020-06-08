@@ -1,4 +1,4 @@
-#!/bin/php
+#!/usr/bin/php
 <?php
 	require 'utils/connector.php';
 	
